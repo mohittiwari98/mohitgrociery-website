@@ -1,8 +1,12 @@
+
 <div align="center">
 
 # 🛒 Grocify
 
 ### A modern, fast, and responsive online grocery shopping website
+
+A website is live at: https://mohittiwari98.github.io/mohitgrociery-website/#
+
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)

@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import Heading from '../Heading/Heading'
 import ProductList from '../ProductList/ProductList'
-import Cards from '../cards/cards'
+import Cards from '../Cards/Cards'
+
 import { Link } from 'react-router-dom'
 
 

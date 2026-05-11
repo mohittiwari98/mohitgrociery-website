@@ -2,7 +2,8 @@ import React from 'react'
 
 import ProductList from '../ProductList/ProductList'
 import Banner from '../Banner/Banner'
-import Cards from '../cards/cards'
+import Cards from '../Cards/Cards'
+
 
 const CategoryPage = ({title,bgImage,categories=[]}) => {
     let filtereditems=categories.includes('All')
